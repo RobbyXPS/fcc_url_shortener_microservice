@@ -1,10 +1,10 @@
 /****** Main Styling ******/
 
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Merriweather Sans', sans-serif;
 	font-size: 16px;
-	color: #222;
-	background-color: #FaFaFa;
+	color: #003300;
+	background-color: #ccffcc;
 	text-align: center;
 	line-height: 1.4em;
 }
@@ -42,7 +42,7 @@ ul {
 }
 
 li {
-  margin-bottom: 0.5em;
+  margin-bottom: 1.5em;
 }
 .user-stories li {
   margin-bottom: 1em;

@@ -19,3 +19,12 @@ POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.googl
 #### Will redirect to:
 
 https://www.freecodecamp.org/forum/
+
+#### The following links were used as help/inspiration for this project:
+FCC Example Project:
+https://glitch.com/edit/#!/thread-paper?path=server.js:32:0
+Tutorial by Dylan Israel:
+https://www.youtube.com/watch?v=5T1YDRWaa3k
+https://www.youtube.com/watch?v=nSVzUH9NvSw
+Tutorial by Brad Traversy:
+https://www.youtube.com/watch?v=R54neaLznFA&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE&index=3
